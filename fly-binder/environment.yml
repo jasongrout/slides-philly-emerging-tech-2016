@@ -1,0 +1,8 @@
+name: jupyter-fly
+
+dependencies:
+  - gdal
+  - matplotlib
+  - scikit-image
+  - pip:
+    - pythreejs
